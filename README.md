@@ -8,6 +8,8 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
  
 </div>
 
+  <div>
+  
   
 <h4>Backend</h4>
 <ul>
@@ -48,6 +50,9 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
   <div style="background-color: yellow;"></div>
 </div>
 
+  
+  </div>
+  
 
 
 <!---
