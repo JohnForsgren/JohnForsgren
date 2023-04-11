@@ -9,10 +9,9 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
  
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3NDkyOTFmYTJjNTc2YjE2YWYwZTc3MmY5M2Q0Y2FlYWZhNzVjZiZjdD1n/BYjaGsV4YpZOpZim1S/giphy.gif" width="300"/>
-</div>   
-    
-</div>
-
+</div> 
+  
+  
 <h4>Languages</h4>
 <div>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
@@ -39,6 +38,9 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
   <a href="https://azure.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/Agile_software_development"><img src="https://img.icons8.com/plasticine/100/000000/group-tasks.png" title="Agile" alt="Agile" width="40" height="40"/></a>
 </div>
+    
+</div>
+
 
 
 
