@@ -6,9 +6,15 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-forsgren95/)
  
+
+  
 </div>
 
-  <div>
+<div id="header" align="center">
+    <img src="https://giphy.com/gifs/hello-test-hi-JVmYAO3MkGNiM" width="100"/>
+</div>
+
+<div>
   
   
 <h4>Backend</h4>
