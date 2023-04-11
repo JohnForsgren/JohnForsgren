@@ -8,46 +8,32 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
  
 </div>
 
-<h4>Languages</h4>
-C#, .NET 
-Typescript, Javascript
-
-<h4>Backend</h4>
-ASP.NET 
-SQL 
-
-<h4>Frontend</h4>
-React
-HTML, CSS
-
-<h4>Tools and Technologies</h4>
-Azure
-TDD
-Agile work methods
-
-<div style="display:flex; flex-wrap:wrap;">
-  <div style="flex-basis:50%;">
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+  <div>
     <h4>Languages</h4>
     <ul>
       <li>C#, .NET</li>
       <li>Typescript, Javascript</li>
     </ul>
   </div>
-  <div style="flex-basis:50%;">
+
+  <div>
     <h4>Backend</h4>
     <ul>
       <li>ASP.NET</li>
       <li>SQL</li>
     </ul>
   </div>
-  <div style="flex-basis:50%;">
+
+  <div>
     <h4>Frontend</h4>
     <ul>
       <li>React</li>
       <li>HTML, CSS</li>
     </ul>
   </div>
-  <div style="flex-basis:50%;">
+
+  <div>
     <h4>Tools and Technologies</h4>
     <ul>
       <li>Azure</li>
@@ -56,6 +42,7 @@ Agile work methods
     </ul>
   </div>
 </div>
+
 
 
 
