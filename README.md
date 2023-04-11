@@ -36,7 +36,7 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
 <h4>Tools and technologies</h4>
 <div>
   <a href="https://azure.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Agile_software_development"><img src="https://img.icons8.com/plasticine/100/000000/group-tasks.png" title="Agile" alt="Agile" width="40" height="40"/></a>
+  <a href="https://git-scm.com/doc"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></a>
 </div>
     
 </div>
