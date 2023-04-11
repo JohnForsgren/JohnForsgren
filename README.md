@@ -1,7 +1,7 @@
-- 👋 Hi, I’m John Forsgren
-- 👀 I’m interested in App- and Web-development. The majority of my experience is in C# and Python. 
-- 🌱 I’m currently expanding my skills in C++. 
-- 📫 Reach me at john.ev.forsgren@gmail.com or +4670 2500 493. 
+Hi! I'm John Forsgren. 
+I am a structured, curious full-stack .NET developer with an academic background in Mechanical Engineering with a master's in Product Design. 
+
+Please feel free to check out my projects and add me on LinkedIn! 
 
 <!---
 JohnForsgren/JohnForsgren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
