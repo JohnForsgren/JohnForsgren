@@ -1,4 +1,4 @@
-<h1> Hi! I'm John Forsgren. </h1> <br/> 
+<h2> Hi! I'm John Forsgren. </h2> <br/> 
 I am a structured, curious full-stack .NET developer and Mechanical Engineering with a master's in Product Design. <br/> 
 
 Please feel free to check out my projects and add me on LinkedIn! 
