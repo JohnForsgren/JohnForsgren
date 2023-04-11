@@ -8,6 +8,27 @@ Please feel free to check out my projects here in GitHub, and add me on LinkedIn
  
 </div>
 
+<h3>Languages</h3>
+C#, .NET 
+Typescript, Javascript
+
+<h3>Backend</h3>
+ASP.NET 
+SQL 
+
+<h3>Frontend</h3>
+React
+HTML, CSS
+
+<h3>Tools and Technologies</h3>
+Azure
+TDD
+Agile work methods
+
+
+
+
+
 
 <!---
 JohnForsgren/JohnForsgren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
