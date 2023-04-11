@@ -36,6 +36,18 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
   <li>Agile work methods</li>
 </ul>
 
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <div style="background-color: blue; width: 50%; height: 100%;"></div>
+  <div style="background-color: red; width: 50%; height: 100%;"></div>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px; height: 200px;">
+  <div style="background-color: blue;"></div>
+  <div style="background-color: red;"></div>
+  <div style="background-color: green;"></div>
+  <div style="background-color: yellow;"></div>
+</div>
+
 
 
 <!---
