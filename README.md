@@ -2,7 +2,7 @@
 <h2> Hi! I'm John Forsgren 👋 </h2> <br/> 
 I am a structured, curious full-stack .NET developer and Mechanical Engineering with a master's in Product Design. <br/> 
 
-Please feel free to check out my projects here in GitHub, and add me on LinkedIn! 
+Please feel free to check out my projects here in GitHub, and reach out to me on LinkedIn! 
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-forsgren95/)
  
