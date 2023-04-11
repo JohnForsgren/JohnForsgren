@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2> Hello! I'm John Forsgren 👋 </h2> <br/> 
-I am a structured, curious full-stack .NET developer and Mechanical Engineering with a master's in Product Design. <br/> 
+I am a structured, curious full-stack .NET developer and Mechanical Engineer with a master's in Product Design. <br/> 
 
 Please feel free to check out my projects here on GitHub, and reach out to me on LinkedIn! 
   
