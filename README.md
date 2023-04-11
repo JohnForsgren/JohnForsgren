@@ -13,6 +13,33 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
     
 </div>
 
+<h4>Languages</h4>
+<div>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://en.cppreference.com/w/cpp"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
+</div>
+
+<h4>Backend</h4>
+<div>
+  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="ASP.NET" alt="ASP.NET" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
+</div>
+
+<h4>Frontend</h4>
+<div>
+  <a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/></a>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+</div>
+
+<h4>Tools and technologies</h4>
+<div>
+  <a href="https://azure.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Agile_software_development"><img src="https://img.icons8.com/plasticine/100/000000/group-tasks.png" title="Agile" alt="Agile" width="40" height="40"/></a>
+</div>
+
 
 
 <!---
