@@ -8,19 +8,19 @@ Please feel free to check out my projects here in GitHub, and add me on LinkedIn
  
 </div>
 
-<h3>Languages</h3>
+<h4>Languages</h4>
 C#, .NET 
 Typescript, Javascript
 
-<h3>Backend</h3>
+<h4>Backend</h4>
 ASP.NET 
 SQL 
 
-<h3>Frontend</h3>
+<h4>Frontend</h4>
 React
 HTML, CSS
 
-<h3>Tools and Technologies</h3>
+<h4>Tools and Technologies</h4>
 Azure
 TDD
 Agile work methods
