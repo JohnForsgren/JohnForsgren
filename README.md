@@ -6,12 +6,7 @@ I am a structured, curious full-stack .NET developer and Mechanical Engineer wit
 Please feel free to check out my projects here on GitHub, and reach out to me on LinkedIn! 
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-forsgren95/)
- 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3NDkyOTFmYTJjNTc2YjE2YWYwZTc3MmY5M2Q0Y2FlYWZhNzVjZiZjdD1n/BYjaGsV4YpZOpZim1S/giphy.gif" width="300"/>
-</div> 
-  
-  
+
 <h4>Languages</h4>
 <div>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
@@ -38,6 +33,10 @@ Please feel free to check out my projects here on GitHub, and reach out to me on
   <a href="https://azure.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/doc"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
 </div>
+  
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3NDkyOTFmYTJjNTc2YjE2YWYwZTc3MmY5M2Q0Y2FlYWZhNzVjZiZjdD1n/BYjaGsV4YpZOpZim1S/giphy.gif" width="300"/>
+</div> 
     
 </div>
 
