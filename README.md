@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ1MDRjZjUyNGRhNzcyNWMyYjVjZDBiMDYyOTQ3MjU1ZmEyNzliYSZjdD1z/tITBr3FCUZ8qfjWzYd/giphy.gif" width="100"/>
 </div>
-</div>
+
 <h2> Hello! I'm John Forsgren 👋 </h2> <br/> 
 I am a structured, curious full-stack .NET developer and Mechanical Engineering with a master's in Product Design. <br/> 
 
