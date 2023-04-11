@@ -1,5 +1,8 @@
 <div align="center">
-<h2> Hi! I'm John Forsgren 👋 </h2> <br/> 
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE0ZTU0MzEzY2Q4ZTE5MmMwODg2NjM1ZDgxNGYyYzFiMjVlOTJmZSZjdD1n/rOHeWJxe3JvEAC5y5u/giphy.gif" width="100"/>
+</div>
+<h2> I'm John Forsgren 👋 </h2> <br/> 
 I am a structured, curious full-stack .NET developer and Mechanical Engineering with a master's in Product Design. <br/> 
 
 Please feel free to check out my projects here in GitHub, and reach out to me on LinkedIn! 
