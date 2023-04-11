@@ -25,6 +25,38 @@ Azure
 TDD
 Agile work methods
 
+<div style="display:flex; flex-wrap:wrap;">
+  <div style="flex-basis:50%;">
+    <h4>Languages</h4>
+    <ul>
+      <li>C#, .NET</li>
+      <li>Typescript, Javascript</li>
+    </ul>
+  </div>
+  <div style="flex-basis:50%;">
+    <h4>Backend</h4>
+    <ul>
+      <li>ASP.NET</li>
+      <li>SQL</li>
+    </ul>
+  </div>
+  <div style="flex-basis:50%;">
+    <h4>Frontend</h4>
+    <ul>
+      <li>React</li>
+      <li>HTML, CSS</li>
+    </ul>
+  </div>
+  <div style="flex-basis:50%;">
+    <h4>Tools and Technologies</h4>
+    <ul>
+      <li>Azure</li>
+      <li>TDD</li>
+      <li>Agile work methods</li>
+    </ul>
+  </div>
+</div>
+
 
 
 
