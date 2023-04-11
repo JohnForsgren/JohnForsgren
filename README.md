@@ -6,8 +6,7 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-forsgren95/)
  
-</div>
-
+  
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
   <div>
     <h4>Languages</h4>
@@ -41,6 +40,9 @@ Please feel free to check out my projects here in GitHub, and reach out to me on
       <li>Agile work methods</li>
     </ul>
   </div>
+</div>
+
+  
 </div>
 
 
