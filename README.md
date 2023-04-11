@@ -6,7 +6,6 @@ Please feel free to check out my projects here in GitHub, and add me on LinkedIn
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-forsgren95/)
  
-
 </div>
 
 
