@@ -33,7 +33,7 @@ Please feel free to check out my projects here on GitHub, and reach out to me on
 </div>
   
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3NDkyOTFmYTJjNTc2YjE2YWYwZTc3MmY5M2Q0Y2FlYWZhNzVjZiZjdD1n/BYjaGsV4YpZOpZim1S/giphy.gif" width="300"/>
+  <a href="https://azure.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
 </div> 
     
 </div>
