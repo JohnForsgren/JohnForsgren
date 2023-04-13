@@ -29,7 +29,7 @@ Please feel free to check out my projects here on GitHub, and reach out to me on
 
 <h4>Tools and technologies</h4>
 <div>
-  <a href="https://git-scm.com/doc"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
+  <a href="https://en.cppreference.com/w/cpp"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
 </div>
   
 <div id="header" align="center">
